@@ -2,6 +2,8 @@
 
 这是一个基于 Cloudflare Workers & Pages 的工具，用于查询给定 ASN（自治系统号码）的所有 IP CIDR 范围。
 
+https://3kmfi6hp.pages.dev/blog/worker-asn.html
+
 ## 功能特点
 
 - 查询指定 ASN 的所有 IP CIDR 范围。
